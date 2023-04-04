@@ -1,0 +1,2 @@
+all:
+	go doc ShowMessage
